@@ -1,2 +1,3 @@
 # GitHubQuickLearn
-Demo repository for GitHub Quick Learning
+Demo repository for GitHub Quick Learning.
+This is exciting.
